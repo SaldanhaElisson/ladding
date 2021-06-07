@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+}
+#container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(photo-1621953119617-5c4f617b4581.jpg);
+    background-size: cover;
+}
+
+.ladding{
+    display: flex;
+    flex-direction: column;
+    color:white;
+    font-size: 2rem;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+input{
+    height: 2rem;
+    border-radius: 2px;
+    width: 30rem;
+    border: 0px;
+    font-size: 1.3rem;
+    font-weight:10px;
+}
